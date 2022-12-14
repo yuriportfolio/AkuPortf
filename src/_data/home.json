@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
+  "title": "Akulina Nikitina",
+  "image": "/src/assets/img/29e79f40-015e-4950-9bb4-72ff62517a86.jpeg",
   "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "body": "#### A wordsmith, storyteller, visionary, and artist."
 }
