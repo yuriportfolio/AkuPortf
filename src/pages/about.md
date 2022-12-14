@@ -21,4 +21,4 @@ eleventyNavigation:
 * Adaptability and flexibility in response to changing client needs and project requirements
 * A keen eye for detail and a commitment to producing high-quality work.
 
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+![Fern in Hand](/src/assets/img/691a23e2-8a66-4bb5-b2c2-4ba4e9b19855.jpeg "Fern in Hand")
