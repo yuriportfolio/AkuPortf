@@ -23,4 +23,4 @@ I'm a content writer with a knack for finding the right words to connect people,
 * Adaptability and flexibility in response to changing client needs and project requirements
 * A keen eye for detail and a commitment to producing high-quality work.
 
-![Aku]( "ku")
+![Aku](/src/assets/img/29e79f40-015e-4950-9bb4-72ff62517a86.jpeg "ku")
